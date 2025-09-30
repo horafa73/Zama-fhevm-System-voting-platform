@@ -158,7 +158,7 @@ FRONTEND_PORT=5300
 
 ## 🚀 Deploy Contract
 ```bash
-npx hardhat run scripts/deploy.js --network zamatest
+npx hardhat run scripts/deploy.js --network sepolia
 ```
 
 ---
